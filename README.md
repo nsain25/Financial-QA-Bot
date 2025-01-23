@@ -1,4 +1,3 @@
-# Financial-QA-Bot
 # Financial QA Bot
 
 This project is a **Financial Question-Answering (QA) Bot** designed to extract, store, and retrieve financial data from PDFs. It uses a **Retrieval-Augmented Generation (RAG)** pipeline to provide accurate and context-aware answers to user queries.
@@ -24,7 +23,7 @@ This project is a **Financial Question-Answering (QA) Bot** designed to extract,
 ### Run Locally Using Docker
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/financial-qa-bot.git
+   git clone https://github.com/nsain25/financial-qa-bot.git
    cd financial-qa-bot
    ```
 
